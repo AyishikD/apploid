@@ -1,6 +1,6 @@
 # apploid
 
-A new Flutter project.
+It is a ToDo App where we can store all the tasks which we want to complete during the whole day. Also after completion of a day there is an option to delete the task by right swiping. Also there is an option to cut the task after completion by checking the box.
 
 ## Getting Started
 
